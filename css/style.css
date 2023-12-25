@@ -1,0 +1,9 @@
+#Xbar{
+    top: 1rem
+}
+#Sx{
+    top: calc(1rem + 60px)
+}
+#K{
+    top: calc(calc(1rem + 60px) + 60px)
+}
